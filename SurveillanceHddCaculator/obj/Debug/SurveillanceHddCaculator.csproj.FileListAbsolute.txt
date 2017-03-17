@@ -1,0 +1,14 @@
+E:\MyVC\MyProjects\SurveillanceHddCaculator\SurveillanceHddCaculator\bin\Debug\SurveillanceHddCaculator.exe.config
+E:\MyVC\MyProjects\SurveillanceHddCaculator\SurveillanceHddCaculator\bin\Debug\SurveillanceHddCaculator.exe
+E:\MyVC\MyProjects\SurveillanceHddCaculator\SurveillanceHddCaculator\bin\Debug\SurveillanceHddCaculator.pdb
+E:\MyVC\MyProjects\SurveillanceHddCaculator\SurveillanceHddCaculator\obj\Debug\SurveillanceHddCaculator.csprojResolveAssemblyReference.cache
+E:\MyVC\MyProjects\SurveillanceHddCaculator\SurveillanceHddCaculator\obj\Debug\MainWindow.g.cs
+E:\MyVC\MyProjects\SurveillanceHddCaculator\SurveillanceHddCaculator\obj\Debug\App.g.cs
+E:\MyVC\MyProjects\SurveillanceHddCaculator\SurveillanceHddCaculator\obj\Debug\SurveillanceHddCaculator_MarkupCompile.cache
+E:\MyVC\MyProjects\SurveillanceHddCaculator\SurveillanceHddCaculator\obj\Debug\SurveillanceHddCaculator_MarkupCompile.lref
+E:\MyVC\MyProjects\SurveillanceHddCaculator\SurveillanceHddCaculator\obj\Debug\MainWindow.baml
+E:\MyVC\MyProjects\SurveillanceHddCaculator\SurveillanceHddCaculator\obj\Debug\SurveillanceHddCaculator.g.resources
+E:\MyVC\MyProjects\SurveillanceHddCaculator\SurveillanceHddCaculator\obj\Debug\SurveillanceHddCaculator.Properties.Resources.resources
+E:\MyVC\MyProjects\SurveillanceHddCaculator\SurveillanceHddCaculator\obj\Debug\SurveillanceHddCaculator.csproj.GenerateResource.Cache
+E:\MyVC\MyProjects\SurveillanceHddCaculator\SurveillanceHddCaculator\obj\Debug\SurveillanceHddCaculator.exe
+E:\MyVC\MyProjects\SurveillanceHddCaculator\SurveillanceHddCaculator\obj\Debug\SurveillanceHddCaculator.pdb
